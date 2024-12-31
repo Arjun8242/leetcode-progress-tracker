@@ -1,1 +1,7 @@
-
+the approach for this problem is.
+--> we have to remember to apply binary search on those problems where solution is in the given range
+--> apply BS on answers
+--> the minimum weight ship can transport is the max of all the weights 
+and the maximum it can transport is the sum of all weights( in 1 day )
+--> apply BS in the range (10,55) remember from 10 to 14 not possible and from 15 to 55 possible
+--> make a function which checks or calc amount of weights trnasporting in day 1 to day d given if it exceeds the weight of the input calc it in next days. 
