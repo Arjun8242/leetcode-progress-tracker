@@ -21,8 +21,9 @@ class Solution {
                     List.add(Arrays.asList(nums[i],nums[j],nums[k]));
                     j++;
                     k--;
+                    
                     while(nums[j]==nums[j-1] && j<k){
-                       j++; 
+                       j++;
                     }
                     
                 }
