@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
