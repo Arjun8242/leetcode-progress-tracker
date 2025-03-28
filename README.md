@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0088-merge-sorted-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0213-house-robber-ii) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
