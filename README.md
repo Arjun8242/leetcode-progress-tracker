@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
