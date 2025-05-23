@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0079-word-search) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0213-house-robber-ii) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0240-search-a-2d-matrix-ii) |
