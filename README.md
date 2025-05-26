@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0198-house-robber) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0300-longest-increasing-subsequence) |
