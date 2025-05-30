@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2047-find-a-peak-element-ii) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2047-find-a-peak-element-ii) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0967-minimum-falling-path-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0088-merge-sorted-array) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0090-subsets-ii) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0062-unique-paths) |
+## Ordered Set
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
