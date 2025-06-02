@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2047-find-a-peak-element-ii) |
+| [2048-build-array-from-permutation](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2048-build-array-from-permutation) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3321-type-of-triangle](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3321-type-of-triangle) |
 ## Binary Search
@@ -188,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
