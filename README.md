@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2262-solving-questions-with-brainpower](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2262-solving-questions-with-brainpower) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3321-type-of-triangle](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3321-type-of-triangle) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0967-minimum-falling-path-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2262-solving-questions-with-brainpower](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
 |  |
 | ------- |
