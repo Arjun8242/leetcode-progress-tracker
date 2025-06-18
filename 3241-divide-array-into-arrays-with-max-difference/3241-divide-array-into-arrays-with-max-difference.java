@@ -1,3 +1,4 @@
+
 class Solution {
     public int[][] divideArray(int[] nums, int k) {
         Arrays.sort(nums);
@@ -18,4 +19,4 @@ class Solution {
             }
             return ans;
     }
-}
+} 
