@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Math
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0037-sudoku-solver) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0079-word-search) |
 | [1078-remove-outermost-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2032-largest-odd-number-in-string) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Depth-First Search
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
