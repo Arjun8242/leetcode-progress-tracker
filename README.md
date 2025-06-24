@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1635-number-of-good-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1635-number-of-good-pairs) |
 | [2047-find-a-peak-element-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0679-24-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1635-number-of-good-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2032-largest-odd-number-in-string) |
 | [2998-count-symmetric-integers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0037-sudoku-solver) |
+| [1635-number-of-good-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1635-number-of-good-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1635-number-of-good-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
