@@ -1,54 +1,94 @@
 class Solution {
-    private boolean isRepeatedKTimes(char[] source, String pattern, int k) {
-        char[] pat = pattern.toCharArray();
-        int sourceLen = source.length;
-        int patLen = pat.length;
-        int idx = 0;
+        public String longestSubsequenceRepeatedK(String s, int k) {
+        String ans = "";
+        Queue<String> queue = new LinkedList<>();
+        queue.add("");
 
-        while (k-- > 0) {
-            int match = 0;
-            while (idx < sourceLen && match < patLen) {
-                if (source[idx] == pat[match]) match++;
-                idx++;
-            }
-            if (match != patLen) return false;
-        }
-        return true;
-    }
-    
-    public String longestSubsequenceRepeatedK(String s, int k) {
-        char[] chars = s.toCharArray();
-        int len = chars.length;
-
-        int[] freq = new int[26];
-        for (int i = 0; i < len; i++) {
-            freq[chars[i] - 'a']++;
-        }
-
-        ArrayList<String>[] candidates = new ArrayList[8];
-        candidates[1] = new ArrayList<>();
-        String result = "";
-
-        for (int i = 0; i < 26; i++) {
-            if (freq[i] >= k) {
-                String ch = "" + (char) ('a' + i);
-                result = ch;
-                candidates[1].add(ch);
-            }
-        }
-
-        for (int length = 2; length < 8; length++) {
-            candidates[length] = new ArrayList<>();
-            for (String prefix : candidates[length - 1]) {
-                for (String suffix : candidates[1]) {
-                    String combo = prefix + suffix;
-                    if (isRepeatedKTimes(chars, combo, k)) {
-                        result = combo;
-                        candidates[length].add(combo);
-                    }
+        while (!queue.isEmpty()) {
+            String curr = queue.poll();
+            for (char ch = 'a'; ch <= 'z'; ch++) {
+                String next = curr + ch;
+                if (isrepeated(next, s, k)) {
+                    ans = next;
+                    queue.add(next);
                 }
             }
         }
-        return result;
+        return ans;
     }
+
+        boolean isrepeated(String pattern, String s, int k){
+        int i=0;
+        int count=0;
+        for(char ch:s.toCharArray()){
+            if(ch==pattern.charAt(i)){
+                i++;
+                if(i==pattern.length()){
+                    i=0;
+                    count++;
+                    if(count==k) return true;
+                }
+            }
+        }
+        return false;
+    }
+
+
+    //THIS IS A BFS APPROACH
+    
+
+
+       /* Map<Character,Integer> freq=new HashMap<>();
+        for(char ch:s.toCharArray()){
+            freq.put(ch, freq.getOrDefault(ch, 0) + 1);
+        }
+        StringBuilder valid=new StringBuilder();
+        for(char ch='a'; ch<='z'; ch++){
+            if(freq.getOrDefault(ch, 0)>=k)
+            valid.append(ch);
+        }
+        String validchars=valid.toString();
+        String res="";
+
+        for(int len=7; len>=1; len--){
+            List<String> candidates=new ArrayList();
+            generate(validchars, "", len, candidates);
+            candidates.sort(Collections.reverseOrder());
+
+            for(String cand:candidates){
+                if(isrepeated(cand, s, k))
+                return cand;
+            }
+        }
+        return "";
+    }
+
+    public static void generate(String chars, String curr, int len, List<String> res){
+        if(curr.length()==len){
+            res.add(curr);
+            return;
+        }
+
+        for(int i=0;i<chars.length();i++){
+            generate(chars, curr+chars.charAt(i), len, res);
+        }
+    }
+
+    boolean isrepeated(String pattern, String s, int k){
+        int i=0;
+        int count=0;
+        for(char ch:s.toCharArray()){
+            if(ch==pattern.charAt(i)){
+                i++;
+                if(i==pattern.length){
+                    i=0;
+                    count++;
+                    if(count==k) return true;
+                }
+            }
+        }
+        return false;
+    }  */   // THIS IS A DFS APPROACH
+
+     
 }
