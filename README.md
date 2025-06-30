@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0078-subsets) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0242-valid-anagram) |
 | [0354-russian-doll-envelopes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0354-russian-doll-envelopes) |
