@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0410-split-array-largest-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3618-find-the-original-typed-string-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3617-find-the-original-typed-string-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Depth-First Search
