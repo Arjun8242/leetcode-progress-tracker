@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0679-24-game) |
 | [0967-minimum-falling-path-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0967-minimum-falling-path-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1127-last-stone-weight](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1293-three-consecutive-odds) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -325,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
