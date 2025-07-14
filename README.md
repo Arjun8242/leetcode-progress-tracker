@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0679-24-game) |
 | [1014-k-closest-points-to-origin](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1014-k-closest-points-to-origin) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2032-largest-odd-number-in-string) |
@@ -367,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1014-k-closest-points-to-origin) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
