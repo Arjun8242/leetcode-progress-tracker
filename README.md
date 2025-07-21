@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0782-jewels-and-stones](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0782-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1078-remove-outermost-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2032-largest-odd-number-in-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2079-delete-duplicate-folders-in-system) |
