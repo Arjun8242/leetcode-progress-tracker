@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
