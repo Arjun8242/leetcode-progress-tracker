@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0679-24-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1014-k-closest-points-to-origin) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0518-coin-change-ii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0967-minimum-falling-path-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0090-subsets-ii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2400-minimum-score-after-removals-on-a-tree) |
