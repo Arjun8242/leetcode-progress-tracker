@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0242-valid-anagram) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1078-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1818-maximum-score-from-removing-substrings) |
