@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0455-assign-cookies) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0402-remove-k-digits) |
 | [0782-jewels-and-stones](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0782-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0402-remove-k-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0739-daily-temperatures) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->
