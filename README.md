@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0120-triangle) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0682-baseball-game) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0883-car-fleet) |
