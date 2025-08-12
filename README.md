@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1078-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -481,6 +483,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2227-sum-of-subarray-ranges) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
