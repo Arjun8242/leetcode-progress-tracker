@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0460-lfu-cache](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0460-lfu-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Heap (Priority Queue)
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0460-lfu-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Function
 |  |
@@ -498,4 +501,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
