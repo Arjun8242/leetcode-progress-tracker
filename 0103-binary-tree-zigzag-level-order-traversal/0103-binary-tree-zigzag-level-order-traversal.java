@@ -19,7 +19,7 @@ class Solution {
         Queue<TreeNode> queue=new LinkedList<>();
         if(root==null) return ans;
         queue.offer(root);
-        int count=0;
+        Boolean check=false;
         while(!queue.isEmpty()){
             List<Integer> temp=new ArrayList<>();
            int size=queue.size();
@@ -31,8 +31,8 @@ class Solution {
             if(node.right!=null) queue.add(node.right);
 
            }
-                if(count%2==1) Collections.reverse(temp);
-                count++;
+                if(check) Collections.reverse(temp);
+                check=!check;
                 ans.add(temp);
         }
         return ans;
