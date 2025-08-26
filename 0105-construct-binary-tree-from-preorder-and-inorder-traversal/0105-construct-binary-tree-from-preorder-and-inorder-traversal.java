@@ -14,25 +14,25 @@
  * }
  */
 class Solution {
-    public int i = 0;
-    public int p = 0;
-
+    int preorderindex=0;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        return build(preorder, inorder, Integer.MIN_VALUE);
+        Map<Integer, Integer> map=new HashMap<>();
+        for(int i=0;i<inorder.length;i++){
+            map.put(inorder[i],i);
+        }
+        return buildtree(preorder, inorder, 0, preorder.length-1, map);
     }
+    public TreeNode buildtree(int[] preorder, int[] inorder, int start, int end, Map<Integer, Integer> map){
+        if(start>end)  return null;
 
-    public TreeNode build(int[] preorder, int[] inorder, int stop) {
-        if (p >= preorder.length) {
-            return null;
-        }
-        if (inorder[i] == stop) {
-            ++i;
-            return null;
-        }
+        int rootval=preorder[preorderindex++];
+        TreeNode node = new TreeNode(rootval);
 
-        TreeNode node = new TreeNode(preorder[p++]);
-        node.left = build(preorder, inorder, node.val);
-        node.right = build(preorder, inorder, stop);
-        return node;
+        int inorderindex = map.get(rootval);
+
+        node.left=buildtree(preorder, inorder, start, inorderindex-1, map);
+        node.right=buildtree(preorder, inorder, inorderindex+1, end, map);
+
+        return node;            
     }
 }
