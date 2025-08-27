@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0402-remove-k-digits) |
 | [0782-jewels-and-stones](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0782-jewels-and-stones) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -573,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
