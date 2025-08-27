@@ -47,7 +47,13 @@ public class Codec {
     }
 
 }
-
+/* public treeNode serialize(TreeNode root) {
+       return root;
+    }
+    public TreeNode deserialize(TreeNode data) {
+        return data;
+}
+*/
 // Your Codec object will be instantiated and called as such:
 // Codec ser = new Codec();
 // Codec deser = new Codec();
