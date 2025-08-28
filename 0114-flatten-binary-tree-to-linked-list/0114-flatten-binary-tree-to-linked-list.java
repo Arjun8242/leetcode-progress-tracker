@@ -15,7 +15,7 @@
  */
 class Solution {
     public void flatten(TreeNode root) {
-        List<TreeNode> list=new ArrayList<>();
+        /*List<TreeNode> list=new ArrayList<>();
         preorder(root, list);
         int size=list.size()-1;
         for(int i=0;i<size;i++){
@@ -29,5 +29,18 @@ class Solution {
         list.add(root);
         preorder(root.left, list);
         preorder(root.right, list);
+    }*/
+    while(root!=null){
+        if(root.left!=null){
+            TreeNode temp=root.left;
+            while(temp.right!=null){
+                temp=temp.right;
+            }
+            temp.right=root.right;
+            root.right=root.left;
+            root.left=null;
+        }
+        root=root.right;
+    }
     }
 }
