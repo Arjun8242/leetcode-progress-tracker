@@ -7,14 +7,14 @@ class Solution {
             if(nums[right]==0){
                 zeroes++;
             }
-            int windowlen=right-left+1;
             if(zeroes>k){
                 if(nums[left]==0){
                     zeroes--;
                 }
                 left++;
             }
-            result=Math.max(result,right-left+1);
+            int windowlen=right-left+1;
+            result=Math.max(result,windowlen);
         }
         return result;
     }
