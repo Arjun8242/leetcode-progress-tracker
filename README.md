@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0240-search-a-2d-matrix-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0240-search-a-2d-matrix-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0967-minimum-falling-path-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2047-find-a-peak-element-ii) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0322-coin-change) |
@@ -677,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
