@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0268-missing-number) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0226-invert-binary-tree) |
