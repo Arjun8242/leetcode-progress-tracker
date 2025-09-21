@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1635-number-of-good-pairs) |
+| [1753-path-with-minimum-effort](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1753-path-with-minimum-effort](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2047-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0967-minimum-falling-path-sum) |
 | [1073-number-of-enclaves](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1753-path-with-minimum-effort](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1753-path-with-minimum-effort) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1753-path-with-minimum-effort) |
 ## Combinatorics
 |  |
 | ------- |
@@ -576,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1753-path-with-minimum-effort](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1753-path-with-minimum-effort) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2479-meeting-rooms-iii) |
 ## Geometry
@@ -711,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
