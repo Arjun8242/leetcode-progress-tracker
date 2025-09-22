@@ -27,11 +27,10 @@ class Solution {
             long[] curr=pq.poll();
             long d=curr[0];
             int u=(int)curr[1];
-             if(d>dist[u]) continue;
-
             for(int[] edge:graph.get(u)){
                 int v=edge[0];
                 long w=edge[1];
+                 if(d>dist[u]) continue;
                 if(dist[v]>dist[u]+w){
                     dist[v]=dist[u]+w;
                     ways[v]=ways[u];
