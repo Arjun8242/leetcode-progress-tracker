@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -784,4 +785,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1300-critical-connections-in-a-network) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
