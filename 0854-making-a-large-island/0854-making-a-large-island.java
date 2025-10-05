@@ -7,7 +7,7 @@ class Solution {
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j]==1){
-                    int size=bfs(grid, i, j, id);
+                    int size=dfs(grid, i, j, id);
                     map.put(id, size);
                     id++;
                 }
@@ -35,25 +35,40 @@ class Solution {
             }
             return max==0?n*n:max; 
     }
-
-    public int bfs(int[][] grid, int i, int j, int id){
-        int n=grid.length;
-        Queue<int[]> queue=new LinkedList<>();
-        queue.offer(new int[]{i, j});
-        grid[i][j]=id;
-        int size=1;
-        int[][] dirs={{1,0}, {-1,0}, {0,1}, {0,-1}};
-        while(!queue.isEmpty()){
-            int[] curr=queue.poll();
-            for(int[] d: dirs){
-                int x=curr[0]+d[0], y=curr[1]+d[1];
-                if(x>=0 && y>=0 && y<n && x<n && grid[x][y]==1){
-                    queue.offer(new int[]{x,y});
-                    grid[x][y]=id;
-                    size++;
-                }
-            }
+    public int dfs(int[][] grid, int i, int j, int id){
+        int n = grid.length;
+        if (i < 0 || j < 0 || i >= n || j >= n || grid[i][j] != 1) {
+            return 0;
         }
+
+        grid[i][j] = id; // mark with island ID
+        int size = 1;
+
+        int[][] dirs = {{1,0}, {-1,0}, {0,1}, {0,-1}};
+        for (int[] d : dirs) {
+            size += dfs(grid, i + d[0], j + d[1], id);
+        }
+
         return size;
     }
+    // public int bfs(int[][] grid, int i, int j, int id){
+        // int n=grid.length;
+        // Queue<int[]> queue=new LinkedList<>();
+        // queue.offer(new int[]{i, j});
+        // grid[i][j]=id;
+        // int size=1;
+        // int[][] dirs={{1,0}, {-1,0}, {0,1}, {0,-1}};
+        // while(!queue.isEmpty()){
+        //     int[] curr=queue.poll();
+        //     for(int[] d: dirs){
+        //         int x=curr[0]+d[0], y=curr[1]+d[1];
+        //         if(x>=0 && y>=0 && y<n && x<n && grid[x][y]==1){
+        //             queue.offer(new int[]{x,y});
+        //             grid[x][y]=id;
+        //             size++;
+        //         }
+        //     }
+        // }
+        // return size;
+    // }
 }
