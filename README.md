@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0739-daily-temperatures) |
+| [0794-swim-in-rising-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0854-making-a-large-island) |
 | [0883-car-fleet](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0883-car-fleet) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0713-subarray-product-less-than-k) |
+| [0794-swim-in-rising-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0967-minimum-falling-path-sum) |
 | [1073-number-of-enclaves](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1073-number-of-enclaves) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0820-find-eventual-safe-states) |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0820-find-eventual-safe-states) |
@@ -618,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0347-top-k-frequent-elements) |
+| [0794-swim-in-rising-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1127-last-stone-weight) |
@@ -757,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0984-most-stones-removed-with-same-row-or-column) |
