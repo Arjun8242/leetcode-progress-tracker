@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0455-assign-cookies) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0518-coin-change-ii) |
