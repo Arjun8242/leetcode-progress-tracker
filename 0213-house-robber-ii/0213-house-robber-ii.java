@@ -1,18 +1,28 @@
+import java.util.*;
+
 class Solution {
     public int rob(int[] nums) {
-        if(nums.length==1)return nums[0];
-        int ans1=robII(nums,0,nums.length-1);
-        int ans2=robII(nums,1,nums.length);
-        return Math.max(ans1,ans2);
+        int n = nums.length;
+        if (n == 1) return nums[0];
+
+        int ans1 = DP(1, n - 1, nums);  // exclude first house
+        int ans2 = DP(0, n - 2, nums);  // exclude last house
+
+        return Math.max(ans1, ans2);
     }
-    public int robII(int[] nums,int first, int last){
-        int rob=nums[first],no_rob=0;
-        for(int i=first+1;i<last;i++){
-            int Rob=no_rob+nums[i];
-            int No_rob=Math.max(no_rob,rob);
-            rob=Rob;
-            no_rob=No_rob;
+
+    public int DP(int start, int end, int[] nums) {
+        if (start == end) return nums[start]; 
+        int[] dp = new int[nums.length];
+        dp[start] = nums[start];
+        dp[start + 1] = Math.max(nums[start], nums[start + 1]);
+
+        for (int i = start + 2; i <= end; i++) {
+            int take = nums[i] + dp[i - 2];
+            int notTake = dp[i - 1];
+            dp[i] = Math.max(take, notTake);
         }
-        return Math.max(rob,no_rob);
+
+        return dp[end];
     }
 }
