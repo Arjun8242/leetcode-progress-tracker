@@ -3,19 +3,32 @@ class Solution {
         int m=obstacleGrid.length;
         int n=obstacleGrid[0].length;
         int[][] dp=new int[m][n];
+        
+        // If starting or ending cell has obstacle
+        if (obstacleGrid[0][0] == 1 || obstacleGrid[m-1][n-1] == 1)
+            return 0;
 
         for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
+            if (obstacleGrid[i][0] == 1) break;/*If an obstacle exists in that row or column, all cells after it should be 0,
+because the robot can’t pass through that obstacle.*/
+            dp[i][0]=1;
+        }
+
+        for(int j=0;j<n;j++){
+              if (obstacleGrid[0][j] == 1) break;/*If an obstacle exists in that row or column, all cells after it should be 0,
+because the robot can’t pass through that obstacle.*/
+                dp[0][j]=1;
+        }
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
                 if (obstacleGrid[i][j] == 1) {
                     dp[i][j] = 0; 
                 }
-                if(obstacleGrid[i][j]==1) dp[i][j]=0;
-                else if(i==0 && j==0) dp[i][j]=1;
                 else{
-                int up=0;int left=0;
-                if(i>0) up=dp[i-1][j];
-                if(j>0) left=dp[i][j-1];
-                dp[i][j]=up+left;
+                int down=dp[i-1][j];
+                int right=dp[i][j-1];
+                dp[i][j]=down+right;
+
                 }
             }
         }
