@@ -1,5 +1,13 @@
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
+        // ex => [1,3,2,1] target=3
+        // 3+2 -1-1 => 3
+        // 3+1+1 -2 => 3
+        // s1 - s2 = target
+        // s1 + s2 =totsum
+        // 2s1= totsum + target
+        // s1= (totsum + target)/2
+        // basicallly comes down to count number of  subsets with  given differnce 
         int n=nums.length;
         int totsum=0;
         for(int i=0;i<n;i++){
