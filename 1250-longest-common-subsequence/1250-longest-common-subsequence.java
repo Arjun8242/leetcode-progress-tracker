@@ -3,21 +3,33 @@ class Solution {
         int m=text1.length();
         int n=text2.length();
         int[][] dp=new int[m+1][n+1];
-        for (int[] row : dp)
-            Arrays.fill(row, -1);
-        return lcs(text1, text2, m, n, dp);
-    }
-    public int lcs(String s1, String s2, int m, int n,  int[][] dp){
-        if(m==0 || n==0) return 0;
+    //     for (int[] row : dp)
+    //         Arrays.fill(row, -1);
+    //     return lcs(text1, text2, m, n, dp);
+    // }
+    // public int lcs(String s1, String s2, int m, int n,  int[][] dp){
+    //     if(m==0 || n==0) return 0;
 
-        if(dp[m][n]!=-1) return dp[m][n];
+    //     if(dp[m][n]!=-1) return dp[m][n];
         
-        int pick=0;
-        if(s1.charAt(m-1)==s2.charAt(n-1)){
-            pick=1+lcs(s1, s2, m-1, n-1, dp);
-        }
-        int notpick=Math.max(lcs(s1, s2, m-1, n, dp), lcs(s1, s2, m, n-1, dp));
+    //     int pick=0;
+    //     if(s1.charAt(m-1)==s2.charAt(n-1)){
+    //         pick=1+lcs(s1, s2, m-1, n-1, dp);
+    //     }
+    //     int notpick=Math.max(lcs(s1, s2, m-1, n, dp), lcs(s1, s2, m, n-1, dp));
 
-        return dp[m][n] = Math.max(pick, notpick);
+    //     return dp[m][n] = Math.max(pick, notpick);
+
+        for(int i=1;i<=m;i++){
+            for(int j=1;j<=n;j++){
+                if(text1.charAt(i-1)==text2.charAt(j-1)){
+                    dp[i][j]=1+dp[i-1][j-1];
+                }
+                else{
+                    dp[i][j]=Math.max(dp[i-1][j], dp[i][j-1]);
+                }
+            }
+        }
+        return dp[m][n];
     }
 }
