@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0854-making-a-large-island) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0890-lemonade-change) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0794-swim-in-rising-water) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
