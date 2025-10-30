@@ -1,0 +1,27 @@
+class Solution {
+    public int maxProfit(int[] prices) {
+        int n=prices.length;
+        int[][][] dp=new int [n+1][3][2];//[n][trans][buy]
+        for(int[][] arr:dp){
+            for(int[] a:arr){
+                Arrays.fill(a, -1);
+            }
+        }
+        return recursion(0, 2, 1, n, prices, dp);
+    }
+    public int recursion(int day, int trans, int buy, int n, int[] prices,int[][][] dp){
+        if(day==n || trans==0) return 0;
+
+        if(dp[day][trans][buy]!=-1) return dp[day][trans][buy];
+
+        //buying phase 
+        if(buy==1){
+            return dp[day][trans][buy] = Math.max(-prices[day]+recursion(day+1, trans, 0, n, prices, dp), recursion(day+1, trans, 1, n, prices, dp));
+        }
+
+        //selling phase
+        else{
+            return dp[day][trans][buy] = Math.max(prices[day]+recursion(day+1, trans-1, 1, n, prices, dp), recursion(day+1, trans, 0, n, prices, dp));
+        }
+    }
+}
