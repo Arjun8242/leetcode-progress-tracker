@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3321-type-of-triangle) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3321-type-of-triangle) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3830-find-closest-person) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2479-meeting-rooms-iii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
