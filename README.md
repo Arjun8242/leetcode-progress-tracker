@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0611-valid-triangle-number) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0713-subarray-product-less-than-k) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3790-fruits-into-baskets-ii) |
 ## Brainteaser
@@ -866,4 +869,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0258-add-digits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
