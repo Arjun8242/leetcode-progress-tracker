@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0322-coin-change) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0410-split-array-largest-sum) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0287-find-the-duplicate-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
