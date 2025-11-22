@@ -8,7 +8,8 @@ class Solution {
         for(int i=1;i<n;i++){
             if(intervals[i][0]<end){
                 count++;
-                end=Math.max(end, intervals[i][1]);
+            } else{
+                end=intervals[i][1];
             }
         }
         return count;
