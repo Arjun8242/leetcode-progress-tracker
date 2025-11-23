@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0739-daily-temperatures) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1370-count-number-of-nice-subarrays) |
