@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1121-partition-array-for-maximum-sum) |
 | [1127-last-stone-weight](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1293-three-consecutive-odds) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1046-max-consecutive-ones-iii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1813-maximum-erasure-value) |
