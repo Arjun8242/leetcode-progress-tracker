@@ -713,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0206-reverse-linked-list) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Design
 |  |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0460-lfu-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Function
