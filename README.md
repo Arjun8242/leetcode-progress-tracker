@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0057-insert-interval) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0074-search-a-2d-matrix) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0735-asteroid-collision) |
