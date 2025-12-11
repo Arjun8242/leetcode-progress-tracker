@@ -2,25 +2,17 @@ class Solution {
     public int countSubstrings(String s) {
         int count=0;
         int n=s.length();
-        for(int i=0;i<n;i++){
+        boolean[][] dp=new boolean[n][n];
+        for(int i=n-1;i>=0;i--){
             for(int j=i;j<n;j++){
-                String sub = s.substring(i, j + 1);
-
-            if (isbinpal(sub)) {
-                    count++;
+                if(s.charAt(i)==s.charAt(j)){
+                    if(j-i<2 || dp[i+1][j-1]){
+                        dp[i][j]=true;
+                        count++;
+                    }
                 }
             }
         }
         return count;
-    }
-    public boolean isbinpal(String s){
-        int l=0;
-        int r=s.length()-1;
-        while(l<r){
-            if(s.charAt(l++)!=s.charAt(r--)){
-                return false;
-            }
-        }
-        return true;
     }
 }
