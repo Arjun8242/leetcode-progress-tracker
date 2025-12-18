@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2270-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3618-find-the-original-typed-string-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Matrix
 |  |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2653-sliding-subarray-beauty) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Stack
 |  |
 | ------- |
