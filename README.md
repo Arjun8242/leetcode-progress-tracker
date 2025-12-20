@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0890-lemonade-change) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-bag-of-tokens](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0948-bag-of-tokens) |
 | [0966-binary-subarrays-with-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0967-minimum-falling-path-sum) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0812-rotate-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0944-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1302-delete-characters-to-make-fancy-string) |
