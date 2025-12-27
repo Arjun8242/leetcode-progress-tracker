@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2402-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2092-find-all-people-with-secret](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2092-find-all-people-with-secret) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2402-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2402-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2479-meeting-rooms-iii) |
 | [2653-sliding-subarray-beauty](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2653-sliding-subarray-beauty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2402-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2479-meeting-rooms-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
@@ -771,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1753-path-with-minimum-effort) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2402-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2479-meeting-rooms-iii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Geometry
