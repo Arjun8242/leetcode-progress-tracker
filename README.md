@@ -1007,4 +1007,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
