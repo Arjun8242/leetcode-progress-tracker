@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0135-candy) |
+| [0149-max-points-on-a-line](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0268-missing-number) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0149-max-points-on-a-line) |
 | [0242-valid-anagram](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0347-top-k-frequent-elements) |
@@ -826,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1014-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1266-minimum-time-visiting-all-points) |
