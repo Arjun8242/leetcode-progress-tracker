@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0944-delete-columns-to-make-sorted) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -952,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1339-maximum-product-of-splitted-binary-tree) |
