@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2653-sliding-subarray-beauty) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3799-word-squares-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3799-word-squares-ii) |
