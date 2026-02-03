@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0687-longest-univalue-path) |
 | [0721-accounts-merge](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0794-swim-in-rising-water) |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0687-longest-univalue-path) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0687-longest-univalue-path) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
