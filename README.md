@@ -1053,5 +1053,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
