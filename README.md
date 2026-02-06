@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1014-k-closest-points-to-origin) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1046-max-consecutive-ones-iii) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1073-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1162-as-far-from-land-as-possible) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0994-rotting-oranges](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
