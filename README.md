@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3637-trionic-array-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3606-coupon-code-validator](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3634-minimum-removals-to-balance-array) |
 | [3799-word-squares-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3799-word-squares-ii) |
 ## Math
 |  |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2653-sliding-subarray-beauty) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Stack
 |  |
