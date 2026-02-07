@@ -19,7 +19,7 @@ public void dfs(char[][] grid, boolean[][] vis, int i, int j){
     if(i<0 || j<0 || i>grid.length-1 || j>grid[0].length-1)  return;
     if(vis[i][j] || grid[i][j]=='0') return;
 
-    grid[i][j]='0';
+    vis[i][j]=true;
 
     dfs(grid, vis, i-1, j);
     dfs(grid, vis, i, j-1);
