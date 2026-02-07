@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0724-find-pivot-index) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0854-making-a-large-island) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0794-swim-in-rising-water) |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0794-swim-in-rising-water) |
@@ -1078,4 +1082,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
