@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0948-bag-of-tokens) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2032-largest-odd-number-in-string) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2079-delete-duplicate-folders-in-system) |
