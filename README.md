@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0542-01-matrix) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0460-lfu-cache) |
+| [0496-next-greater-element-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0594-longest-harmonious-subsequence) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0739-daily-temperatures) |
@@ -981,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0937-online-stock-span) |
