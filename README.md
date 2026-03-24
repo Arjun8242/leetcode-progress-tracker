@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2653-sliding-subarray-beauty](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2653-sliding-subarray-beauty) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2906-construct-product-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2906-construct-product-matrix) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2270-number-of-ways-to-split-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2270-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2906-construct-product-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3618-find-the-original-typed-string-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2047-find-a-peak-element-ii) |
+| [2906-construct-product-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2906-construct-product-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
