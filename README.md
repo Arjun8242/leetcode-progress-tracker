@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1813-maximum-erasure-value) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1878-check-if-array-is-sorted-and-rotated) |
