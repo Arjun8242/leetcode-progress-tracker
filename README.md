@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2270-number-of-ways-to-split-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2270-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2485-find-the-pivot-integer](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2485-find-the-pivot-integer) |
 | [2906-construct-product-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2032-largest-odd-number-in-string) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2101-detonate-the-maximum-bombs) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2485-find-the-pivot-integer](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3172-divisible-and-non-divisible-sums-difference) |
