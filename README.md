@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0679-24-game) |
+| [0728-self-dividing-numbers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1014-k-closest-points-to-origin) |
