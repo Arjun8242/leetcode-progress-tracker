@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3321-type-of-triangle) |
 | [3379-transformed-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3379-transformed-array) |
+| [3488-closest-equal-element-queries](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3488-closest-equal-element-queries) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3488-closest-equal-element-queries](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3488-closest-equal-element-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3488-closest-equal-element-queries](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3606-coupon-code-validator) |
