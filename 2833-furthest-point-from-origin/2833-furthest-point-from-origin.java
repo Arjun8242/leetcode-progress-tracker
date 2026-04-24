@@ -13,8 +13,6 @@ class Solution {
             else count++;
         }
 
-        if(Ls>=Rs) return count+Ls-Rs;
-
-        else return count+Rs-Ls;
+        return count+Math.abs(Rs-Ls);
     }
 }
