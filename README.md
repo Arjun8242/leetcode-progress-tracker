@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0240-search-a-2d-matrix-ii) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0347-top-k-frequent-elements) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0149-max-points-on-a-line) |
+| [0217-contains-duplicate](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0347-top-k-frequent-elements) |
