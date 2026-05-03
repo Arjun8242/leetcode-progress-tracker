@@ -671,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0944-delete-columns-to-make-sorted) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -1171,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0812-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Number Theory
