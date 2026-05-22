@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2540-minimum-common-value](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2615-sum-of-distances) |
 | [2653-sliding-subarray-beauty](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2653-sliding-subarray-beauty) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2540-minimum-common-value](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2540-minimum-common-value) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3488-closest-equal-element-queries](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3488-closest-equal-element-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3790-fruits-into-baskets-ii) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2121-intervals-between-identical-elements) |
 | [2402-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2479-meeting-rooms-iii) |
+| [2540-minimum-common-value](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2615-sum-of-distances) |
 | [2653-sliding-subarray-beauty](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2653-sliding-subarray-beauty) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
