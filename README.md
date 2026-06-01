@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2121-intervals-between-identical-elements) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2092-find-all-people-with-secret](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2092-find-all-people-with-secret) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2402-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2479-meeting-rooms-iii) |
