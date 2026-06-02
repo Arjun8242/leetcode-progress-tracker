@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0403-frog-jump) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0371-sum-of-two-integers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0934-bitwise-ors-of-subarrays) |
