@@ -11,8 +11,8 @@ class Solution {
     int countSetBits(int x){
         int count=0;
         while(x>1){
-            if(x%2==1) count+=1;
-            x/=2;
+            count+=x&1;
+            x=x>>1 ;
         }
         if(x==1) count+=1;
         return count;
