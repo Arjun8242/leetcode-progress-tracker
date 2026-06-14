@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0948-bag-of-tokens](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0948-bag-of-tokens) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -947,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1078-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2227-sum-of-subarray-ranges](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2227-sum-of-subarray-ranges) |
 | [2751-robot-collisions](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2751-robot-collisions) |
 ## Counting Sort
@@ -1018,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0460-lfu-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Function
 |  |
 | ------- |
