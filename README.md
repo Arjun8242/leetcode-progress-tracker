@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1635-number-of-good-pairs) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1732-find-the-highest-altitude](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1813-maximum-erasure-value) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1370-count-number-of-nice-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1732-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2121-intervals-between-identical-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2121-intervals-between-identical-elements) |
 | [2270-number-of-ways-to-split-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2270-number-of-ways-to-split-array) |
