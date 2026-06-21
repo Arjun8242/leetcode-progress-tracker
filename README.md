@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1813-maximum-erasure-value) |
+| [1833-maximum-ice-cream-bars](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1833-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1833-maximum-ice-cream-bars](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1833-maximum-ice-cream-bars) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2092-find-all-people-with-secret](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2092-find-all-people-with-secret) |
@@ -967,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1833-maximum-ice-cream-bars) |
 ## Trie
 |  |
 | ------- |
