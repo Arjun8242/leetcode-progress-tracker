@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3321-type-of-triangle) |
 | [3379-transformed-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3379-transformed-array) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2047-find-a-peak-element-ii) |
 | [2906-construct-product-matrix](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Divide and Conquer
 |  |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1753-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2101-detonate-the-maximum-bombs) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1028,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2402-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2479-meeting-rooms-iii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Geometry
 |  |
@@ -1227,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -1265,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0743-network-delay-time) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2101-detonate-the-maximum-bombs) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
