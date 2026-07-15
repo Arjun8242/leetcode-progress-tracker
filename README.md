@@ -1271,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1068-product-sales-analysis-i) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Graph Theory
 |  |
 | ------- |
