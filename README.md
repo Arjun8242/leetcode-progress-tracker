@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2047-find-a-peak-element-ii) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1642-water-bottles) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2032-largest-odd-number-in-string) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2101-detonate-the-maximum-bombs) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -1260,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Arjun8242/leetcode-progress-tracker/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
